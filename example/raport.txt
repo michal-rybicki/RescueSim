@@ -1,0 +1,236 @@
+00:36 Przyjeto zgloszenie nr 1
+00:36 Ambulans 1 wyjezdza do zgloszenia nr 1
+00:55 Przyjeto zgloszenie nr 2
+00:55 Ambulans 2 wyjezdza do zgloszenia nr 2
+01:00 Ambulans 1 udziela pomocy rannemu nr 1
+01:12 Ambulans 2 udziela pomocy rannemu nr 2
+01:41 Ambulans 1 dostarczyl rannego nr 1 do szpitala
+01:42 Przyjeto zgloszenie nr 3
+01:42 Ambulans 3 wyjezdza do zgloszenia nr 3
+02:00 Ambulans 2 dostarczyl rannego nr 2 do szpitala
+02:13 Przyjeto zgloszenie nr 4
+02:13 Ambulans 4 wyjezdza do zgloszenia nr 4
+02:14 Ambulans 3 udziela pomocy rannemu nr 3
+02:31 Ambulans 1 wrocil do bazy
+02:34 Ambulans 4 udziela pomocy rannemu nr 4
+02:47 Ambulans 3 dostarczyl rannego nr 3 do szpitala
+02:50 Ambulans 2 wrocil do bazy
+02:52 Przyjeto zgloszenie nr 5
+02:52 Helikopter wylatuje do zgloszenia nr 5 (priorytet)
+03:11 Helikopter udziela pomocy rannemu nr 5
+03:18 Ambulans 4 dostarczyl rannego nr 4 do szpitala
+03:31 Przyjeto zgloszenie nr 6
+03:31 Ambulans 1 wyjezdza do zgloszenia nr 6
+03:31 Helikopter dostarczyl rannego nr 5 do szpitala
+03:37 Ambulans 3 wrocil do bazy
+03:50 Helikopter wrocil do bazy
+04:00 Przyjeto zgloszenie nr 7
+04:00 Ambulans 2 wyjezdza do zgloszenia nr 7
+04:08 Ambulans 4 wrocil do bazy
+04:14 Ambulans 2 udziela pomocy rannemu nr 7
+04:18 Przyjeto zgloszenie nr 8
+04:18 Ambulans 3 wyjezdza do zgloszenia nr 8
+04:21 Ambulans 1 stwierdza zgon rannego nr 6
+04:37 Ambulans 3 udziela pomocy rannemu nr 8
+04:47 Przyjeto zgloszenie nr 9
+04:47 Ambulans 4 wyjezdza do zgloszenia nr 9
+05:03 Przyjeto zgloszenie nr 10
+05:03 Helikopter wylatuje do zgloszenia nr 10
+05:05 Ambulans 2 dostarczyl rannego nr 7 do szpitala
+05:05 Ambulans 4 udziela pomocy rannemu nr 9
+05:12 Helikopter udziela pomocy rannemu nr 10
+05:16 Ambulans 1 wrocil do bazy
+05:23 Przyjeto zgloszenie nr 11
+05:23 Ambulans 3 dostarczyl rannego nr 8 do szpitala
+05:27 Ambulans 1 wyjezdza do zgloszenia nr 11
+05:48 Helikopter dostarczyl rannego nr 10 do szpitala
+05:52 Ambulans 4 dostarczyl rannego nr 9 do szpitala
+05:55 Ambulans 2 wrocil do bazy
+05:57 Przyjeto zgloszenie nr 12
+06:00 Ambulans 1 udziela pomocy rannemu nr 11
+06:06 Ambulans 2 wyjezdza do zgloszenia nr 12
+06:07 Helikopter wrocil do bazy
+06:13 Ambulans 3 wrocil do bazy
+06:27 Ambulans 2 stwierdza zgon rannego nr 12
+06:29 Przyjeto zgloszenie nr 13
+06:29 Ambulans 3 wyjezdza do zgloszenia nr 13
+06:32 Ambulans 1 dostarczyl rannego nr 11 do szpitala
+06:42 Ambulans 4 wrocil do bazy
+06:46 Ambulans 3 udziela pomocy rannemu nr 13
+06:53 Ambulans 2 wrocil do bazy
+07:16 Przyjeto zgloszenie nr 14
+07:16 Ambulans 2 wyjezdza do zgloszenia nr 14
+07:22 Ambulans 1 wrocil do bazy
+07:25 Ambulans 2 udziela pomocy rannemu nr 14
+07:34 Ambulans 3 dostarczyl rannego nr 13 do szpitala
+08:04 Przyjeto zgloszenie nr 15
+08:04 Helikopter wylatuje do zgloszenia nr 15 (priorytet)
+08:11 Helikopter udziela pomocy rannemu nr 15
+08:23 Ambulans 2 dostarczyl rannego nr 14 do szpitala
+08:24 Ambulans 3 wrocil do bazy
+08:42 Helikopter dostarczyl rannego nr 15 do szpitala
+08:52 Przyjeto zgloszenie nr 16
+08:52 Ambulans 1 wyjezdza do zgloszenia nr 16
+09:01 Helikopter wrocil do bazy
+09:02 Ambulans 1 udziela pomocy rannemu nr 16
+09:13 Ambulans 2 wrocil do bazy
+09:32 Przyjeto zgloszenie nr 17
+09:32 Ambulans 2 wyjezdza do zgloszenia nr 17
+09:50 Ambulans 2 udziela pomocy rannemu nr 17
+09:57 Ambulans 1 dostarczyl rannego nr 16 do szpitala
+10:11 Przyjeto zgloszenie nr 18
+10:11 Ambulans 3 wyjezdza do zgloszenia nr 18
+10:25 Ambulans 3 udziela pomocy rannemu nr 18
+10:37 Ambulans 2 dostarczyl rannego nr 17 do szpitala
+10:47 Ambulans 1 wrocil do bazy
+10:59 Przyjeto zgloszenie nr 19
+10:59 Ambulans 1 wyjezdza do zgloszenia nr 19
+11:15 Ambulans 1 udziela pomocy rannemu nr 19
+11:16 Ambulans 3 dostarczyl rannego nr 18 do szpitala
+11:20 Przyjeto zgloszenie nr 20
+11:20 Ambulans 4 wyjezdza do zgloszenia nr 20
+11:27 Ambulans 2 wrocil do bazy
+11:42 Ambulans 4 udziela pomocy rannemu nr 20
+11:52 Przyjeto zgloszenie nr 21
+11:52 Ambulans 2 wyjezdza do zgloszenia nr 21
+11:55 Ambulans 2 udziela pomocy rannemu nr 21
+12:04 Ambulans 1 dostarczyl rannego nr 19 do szpitala
+12:06 Ambulans 3 wrocil do bazy
+12:24 Przyjeto zgloszenie nr 22
+12:24 Helikopter wylatuje do zgloszenia nr 22 (priorytet)
+12:25 Ambulans 4 dostarczyl rannego nr 20 do szpitala
+12:38 Helikopter udziela pomocy rannemu nr 22
+12:46 Przyjeto zgloszenie nr 23
+12:46 Ambulans 3 wyjezdza do zgloszenia nr 23
+12:54 Ambulans 1 wrocil do bazy
+12:57 Ambulans 2 dostarczyl rannego nr 21 do szpitala
+13:02 Helikopter dostarczyl rannego nr 22 do szpitala
+13:08 Przyjeto zgloszenie nr 24
+13:08 Ambulans 1 wyjezdza do zgloszenia nr 24
+13:11 Ambulans 1 udziela pomocy rannemu nr 24
+13:15 Ambulans 4 wrocil do bazy
+13:21 Helikopter wrocil do bazy
+13:40 Ambulans 3 stwierdza zgon rannego nr 23
+13:47 Ambulans 2 wrocil do bazy
+13:57 Przyjeto zgloszenie nr 25
+13:57 Ambulans 4 wyjezdza do zgloszenia nr 25
+14:13 Przyjeto zgloszenie nr 26
+14:13 Ambulans 2 wyjezdza do zgloszenia nr 26
+14:13 Ambulans 1 dostarczyl rannego nr 24 do szpitala
+14:18 Ambulans 4 udziela pomocy rannemu nr 25
+14:31 Ambulans 2 udziela pomocy rannemu nr 26
+14:32 Przyjeto zgloszenie nr 27
+14:32 Helikopter wylatuje do zgloszenia nr 27
+14:39 Ambulans 3 wrocil do bazy
+14:40 Helikopter udziela pomocy rannemu nr 27
+15:02 Ambulans 4 dostarczyl rannego nr 25 do szpitala
+15:03 Ambulans 1 wrocil do bazy
+15:12 Helikopter dostarczyl rannego nr 27 do szpitala
+15:18 Ambulans 2 dostarczyl rannego nr 26 do szpitala
+15:21 Przyjeto zgloszenie nr 28
+15:21 Ambulans 1 wyjezdza do zgloszenia nr 28
+15:31 Helikopter wrocil do bazy
+15:37 Ambulans 1 udziela pomocy rannemu nr 28
+15:51 Przyjeto zgloszenie nr 29
+15:51 Ambulans 3 wyjezdza do zgloszenia nr 29
+15:52 Ambulans 4 wrocil do bazy
+16:03 Przyjeto zgloszenie nr 30
+16:03 Ambulans 4 wyjezdza do zgloszenia nr 30
+16:08 Ambulans 2 wrocil do bazy
+16:12 Ambulans 4 udziela pomocy rannemu nr 30
+16:26 Ambulans 1 dostarczyl rannego nr 28 do szpitala
+16:26 Ambulans 3 udziela pomocy rannemu nr 29
+16:28 Przyjeto zgloszenie nr 31
+16:28 Ambulans 2 wyjezdza do zgloszenia nr 31
+16:45 Przyjeto zgloszenie nr 32
+16:45 Helikopter wylatuje do zgloszenia nr 32
+16:50 Ambulans 2 udziela pomocy rannemu nr 31
+16:52 Helikopter udziela pomocy rannemu nr 32
+16:56 Ambulans 3 dostarczyl rannego nr 29 do szpitala
+17:08 Ambulans 4 dostarczyl rannego nr 30 do szpitala
+17:16 Ambulans 1 wrocil do bazy
+17:27 Helikopter dostarczyl rannego nr 32 do szpitala
+17:28 Przyjeto zgloszenie nr 33
+17:28 Ambulans 1 wyjezdza do zgloszenia nr 33
+17:33 Ambulans 2 dostarczyl rannego nr 31 do szpitala
+17:46 Ambulans 3 wrocil do bazy
+17:46 Helikopter wrocil do bazy
+17:52 Ambulans 1 udziela pomocy rannemu nr 33
+17:58 Ambulans 4 wrocil do bazy
+18:12 Przyjeto zgloszenie nr 34
+18:12 Ambulans 3 wyjezdza do zgloszenia nr 34
+18:23 Ambulans 2 wrocil do bazy
+18:29 Przyjeto zgloszenie nr 35
+18:29 Ambulans 4 wyjezdza do zgloszenia nr 35
+18:32 Ambulans 3 udziela pomocy rannemu nr 34
+18:35 Ambulans 1 dostarczyl rannego nr 33 do szpitala
+18:43 Przyjeto zgloszenie nr 36
+18:43 Ambulans 2 wyjezdza do zgloszenia nr 36
+18:49 Ambulans 4 udziela pomocy rannemu nr 35
+19:09 Przyjeto zgloszenie nr 37
+19:09 Helikopter wylatuje do zgloszenia nr 37
+19:09 Ambulans 2 udziela pomocy rannemu nr 36
+19:19 Ambulans 3 dostarczyl rannego nr 34 do szpitala
+19:19 Helikopter udziela pomocy rannemu nr 37
+19:25 Ambulans 1 wrocil do bazy
+19:36 Ambulans 4 dostarczyl rannego nr 35 do szpitala
+19:46 Przyjeto zgloszenie nr 38
+19:46 Ambulans 1 wyjezdza do zgloszenia nr 38
+19:49 Helikopter dostarczyl rannego nr 37 do szpitala
+19:50 Ambulans 2 dostarczyl rannego nr 36 do szpitala
+20:07 Ambulans 1 stwierdza zgon rannego nr 38
+20:08 Helikopter wrocil do bazy
+20:09 Ambulans 3 wrocil do bazy
+20:26 Ambulans 4 wrocil do bazy
+20:31 Przyjeto zgloszenie nr 39
+20:31 Helikopter wylatuje do zgloszenia nr 39 (priorytet)
+20:33 Ambulans 1 wrocil do bazy
+20:39 Helikopter udziela pomocy rannemu nr 39
+20:40 Ambulans 2 wrocil do bazy
+20:58 Przyjeto zgloszenie nr 40
+20:58 Ambulans 1 wyjezdza do zgloszenia nr 40
+21:09 Helikopter dostarczyl rannego nr 39 do szpitala
+21:17 Ambulans 1 udziela pomocy rannemu nr 40
+21:22 Przyjeto zgloszenie nr 41
+21:22 Ambulans 2 wyjezdza do zgloszenia nr 41
+21:28 Helikopter wrocil do bazy
+21:38 Przyjeto zgloszenie nr 42
+21:38 Ambulans 3 wyjezdza do zgloszenia nr 42
+22:00 Ambulans 3 udziela pomocy rannemu nr 42
+22:03 Ambulans 1 dostarczyl rannego nr 40 do szpitala
+22:03 Ambulans 2 udziela pomocy rannemu nr 41
+22:13 Przyjeto zgloszenie nr 43
+22:13 Ambulans 4 wyjezdza do zgloszenia nr 43
+22:27 Ambulans 2 dostarczyl rannego nr 41 do szpitala
+22:30 Ambulans 4 udziela pomocy rannemu nr 43
+22:33 Przyjeto zgloszenie nr 44
+22:33 Helikopter wylatuje do zgloszenia nr 44 (priorytet)
+22:45 Ambulans 3 dostarczyl rannego nr 42 do szpitala
+22:46 Helikopter udziela pomocy rannemu nr 44
+22:53 Ambulans 1 wrocil do bazy
+22:58 Przyjeto zgloszenie nr 45
+23:04 Ambulans 1 wyjezdza do zgloszenia nr 45
+23:11 Helikopter dostarczyl rannego nr 44 do szpitala
+23:12 Przyjeto zgloszenie nr 46
+23:13 Ambulans 1 udziela pomocy rannemu nr 45
+23:17 Ambulans 2 wrocil do bazy
+23:18 Ambulans 4 dostarczyl rannego nr 43 do szpitala
+23:28 Ambulans 2 wyjezdza do zgloszenia nr 46
+23:30 Helikopter wrocil do bazy
+23:35 Ambulans 3 wrocil do bazy
+23:49 Ambulans 2 udziela pomocy rannemu nr 46
+23:53 Przyjeto zgloszenie nr 47
+23:53 Helikopter wylatuje do zgloszenia nr 47 (priorytet)
+00:08 Ambulans 4 wrocil do bazy
+00:12 Helikopter udziela pomocy rannemu nr 47
+00:13 Ambulans 1 dostarczyl rannego nr 45 do szpitala
+00:33 Ambulans 2 dostarczyl rannego nr 46 do szpitala
+00:34 Helikopter dostarczyl rannego nr 47 do szpitala
+00:42 Przyjeto zgloszenie nr 48
+00:42 Ambulans 3 wyjezdza do zgloszenia nr 48
+00:53 Helikopter wrocil do bazy
+00:58 Ambulans 3 udziela pomocy rannemu nr 48
+01:03 Ambulans 1 wrocil do bazy
+01:23 Ambulans 2 wrocil do bazy
+01:47 Ambulans 3 dostarczyl rannego nr 48 do szpitala
+02:37 Ambulans 3 wrocil do bazy
